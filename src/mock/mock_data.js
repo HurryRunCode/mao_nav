@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "site-1754837755110",
+          "name": "tg导航",
+          "url": "https://tgdriver.com/#google_vignette",
+          "description": "tg_driver",
+          "icon": ""
         }
       ]
     },
